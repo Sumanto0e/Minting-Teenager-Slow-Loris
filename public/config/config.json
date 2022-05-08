@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x130FbB538BA21ba8cF6219a1635C53f12E6B6900",
+  "SCAN_LINK": "https://polygonscan.com/token/0x130FbB538BA21ba8cF6219a1635C53f12E6B6900",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Teenager Slow Loris",
+  "SYMBOL": "LORIS",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/teenager-slow-loris",
+  "SHOW_BACKGROUND": true
+}
